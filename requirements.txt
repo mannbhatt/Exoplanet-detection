@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+tensorflow==2.16.1
+lightkurve==2.4.2
+numpy==1.26.4
+scipy>=1.11.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+plotly>=5.18.0
+astropy>=5.3.0
+astroquery>=0.4.6
