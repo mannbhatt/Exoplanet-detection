@@ -1,0 +1,8 @@
+{
+  "roc_auc": 0.7483,
+  "best_threshold": 0.989,
+  "planets_caught": 3,
+  "total_planets": 5,
+  "recall": 0.6,
+  "false_positives": 0
+}

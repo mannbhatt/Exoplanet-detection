@@ -1,0 +1,4 @@
+Week,Sample,Threshold,F1,FPR,Detection_HiSNR,EB_catch
+7,Competition Hot Jupiters (n=30),0.0843,0.455,0.28,93%,N/A
+8,Competition Hot Jupiters (n=30),0.6914,0.605,0.0,100% (13/13 flagged),6/6 (100%)
+9A,Full Kepler catalog (n=100 planets),0.6914,0.0,0.03,0% — stellar variability,2/8 (25%)
