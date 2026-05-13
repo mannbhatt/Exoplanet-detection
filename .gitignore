@@ -1,0 +1,55 @@
+# ── Jupyter checkpoints (never push these) ──
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ── Docs (not pushing per user request) ──
+doc/
+
+# ── Anaconda project files ──
+anaconda_projects/
+
+# ── Large processed numpy arrays (not needed for app) ──
+data/processed/*.npy
+data/raw/exoTrain.csv
+data/raw/exoTest.csv
+notebooks/data/new_planets/*.npy
+
+# ── Week 9 cache folder ──
+results/week9/cache/
+
+# ── Lightkurve download cache ──
+lightkurve-cache/
+
+# ── Old unused model files (only cnn_model_week6.keras is used) ──
+models/cnn_bilstm_week4.keras
+models/cnn_model.keras
+models/cnn_model_week5.keras
+models/.ipynb_checkpoints/
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── Virtual environments ──
+.env
+.venv
+env/
+venv/
+
+# ── Streamlit secrets ──
+.streamlit/secrets.toml
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
