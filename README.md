@@ -4,7 +4,7 @@
 
 **A 10-Week End-to-End Machine Learning Engineering Project**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://exo-detector.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21.0-FF6F00?style=flat&logo=tensorflow)
 ![AUC](https://img.shields.io/badge/Competition_AUC-0.9628-brightgreen)
@@ -653,7 +653,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-**[🚀 Live App](https://your-app-url.streamlit.app) · [📓 Notebooks](notebooks/) · [📊 Results](results/)**
+**[🚀 Live App](https://exo-detector.streamlit.app/) · [📓 Notebooks](notebooks/) · [📊 Results](results/)**
 
 ---
 
